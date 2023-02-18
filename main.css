@@ -1,0 +1,12 @@
+a.href1:link{
+	color: #000000;
+}
+a.href1:visited{
+	color:#1F9F0F;
+}
+a.href1:hover{
+	color: #fe6a00;
+}
+a.href1:active{
+	color: cyan;
+}
